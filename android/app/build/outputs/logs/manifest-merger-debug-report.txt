@@ -1,0 +1,524 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:1:1-48:12
+MERGED from [:expo-permissions] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-react-native-adapter] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_masked-view] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.61.5] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/ad6c2f99c25fce34c6e424f47da35fde/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/material-1.1.0.aar/0e70824bfd288c68f067c56fac691013/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/803adc2e131e7c3e68bda62d4510f378/AndroidManifest.xml:17:1-24:12
+MERGED from [:expo-app-loader-provider] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-error-recovery] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-30:12
+MERGED from [:expo-font] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-keep-awake] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-linear-gradient] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-location] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:expo-sqlite] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-web-browser] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-barcode-scanner-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [org.webkit:android-jsc:r245459] /home/redwin/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/2899ef901e3e3dfb6779bebaf0a3698b/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.browser:browser:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/6661c02c18c0f1b8f94b367fa3cd5cc9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/2e67504c9aa240ce22eecfd2f5e0f198/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/fa2b94e7b1097c81e15b80f655986970/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/81180aba1116442cc0f9180f8ae89e2d/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/658df75ca81b2ac53cba5091d16ca255/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/874c21be1ba964c4e684191abce0bd76/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/a8be8097efd0c103d8410bbb25545097/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/a2c487fe909c9b5ebdbfc87d7a549811/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/viewpager2-1.0.0.aar/16a3005d878910388d094d25bdbdae95/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /home/redwin/.gradle/caches/transforms-1/files-1.1/fragment-1.2.1.aar/fdd24f40393ecdbc6f447ddbabfc3ff2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/022f97c284d2d40b74fd19267f315301/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0.aar/e97c02c5bfd2f702227d6966735f62ff/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/aedd7bcc84a61beec7e933af86ecbdad/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/95355fcff5ffb9ec27b809fac945e8bc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/25fc028e6ccc656ebc9aa87e790b1680/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/2419a5c02adbda68ca2f0921db05276d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/b6c7fce204108946cebe826618be4cb4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/a9c32b7bd91b3895655d15ec64035999/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/e456a8163427fe00dc0d721196af14a9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/19f364633245c418c07ef5bd86171c6a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/6c99662f4d4b796ed7768dca968e4142/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/activity-1.1.0.aar/c2eb56c8d1c28a6d8fc8d9cf5af59e89/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/7b413f184e46685eaa514c75a211955a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0.aar/213d754351b7ee59ecd3726825fc4617/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/46d6afabe8cbf59c2ea9889cef2f012d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/transition-1.2.0.aar/b2fd3132623b2c5254b40335d7304123/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/31b373d392ede90ae6228a0e38801fca/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/07d3616ca149651910eacdd979416c7e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/40d8f839f32e87bb90ff00fcfa0a6b94/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/03adffe6606ccdc29094f25a82d5e46a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/e7f4fa2b8ac8d3389d4958769ba71db1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-savedstate-2.2.0.aar/405f2956397e7ecb089bfd4ca3f5062c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.2.0.aar/04bb21132708d470aaee789ea382cf49/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/a767de177bcb4c637251eeb654f9b87f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/eaa5b285866ef1b1b8f88fcd0ce4c8d3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/b9d27ac33b0c62bd2deb4abc619e0816/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/f4c1b49de2adb06ccb41fcb0df45c94c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/e1d7342336d926ee9d70e3427713354c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/5e88efc1fb47ff7553e30d54b9e10888/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/9bd6163be66ceb1aeb21d5b6792e3625/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.2.0.aar/4fb91eba6a897c68553b42903d280e80/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/core-runtime-2.1.0.aar/6e4644408c9858cf35e50ed386510cc3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/244b4cce97e5652c09699ad109362e2d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/ed6d2ffbad26f239670599183f1e4703/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/7948583c4a71f7dbd5aff82e66c82c09/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/0ff19d56695811842fb4ef732e64a5c4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/82e9713229ee512c8981e5e509a4c3bc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/89f3c73d55d04d7898c7fd417ea51493/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/027a265ab8539a9890c04f3e820b725f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/6fceb9ec70ab567176dbb07d39640468/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/5f6e2066ce8f39521741c63c5bdcdb70/AndroidManifest.xml:2:1-13:12
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/740482023bd908e049459557fe9d6b04/AndroidManifest.xml:2:1-30:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/9e0751931d0a3c5a8db8f8f7e3bffca2/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:1:1-48:12
+	package
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:2:5-32
+		INJECTED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:expo-file-system] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:11:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:12:22-63
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:16:5-81
+MERGED from [:expo-location] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:expo-location] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/740482023bd908e049459557fe9d6b04/AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/740482023bd908e049459557fe9d6b04/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:17:5-79
+MERGED from [:expo-location] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [:expo-location] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/740482023bd908e049459557fe9d6b04/AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/740482023bd908e049459557fe9d6b04/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:18:22-62
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:19:5-72
+	android:name
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:19:22-69
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:20:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:21:22-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:22:5-80
+MERGED from [:expo-file-system] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:22:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:23:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:24:5-81
+MERGED from [:expo-file-system] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:25:5-73
+	android:name
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:25:22-70
+application
+ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:28:5-46:19
+MERGED from [com.facebook.react:react-native:0.61.5] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/ad6c2f99c25fce34c6e424f47da35fde/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/ad6c2f99c25fce34c6e424f47da35fde/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/material-1.1.0.aar/0e70824bfd288c68f067c56fac691013/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/material-1.1.0.aar/0e70824bfd288c68f067c56fac691013/AndroidManifest.xml:22:5-20
+MERGED from [:expo-file-system] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-file-system] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-location] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [:expo-location] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/2e67504c9aa240ce22eecfd2f5e0f198/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/2e67504c9aa240ce22eecfd2f5e0f198/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/fa2b94e7b1097c81e15b80f655986970/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/fa2b94e7b1097c81e15b80f655986970/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/81180aba1116442cc0f9180f8ae89e2d/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/81180aba1116442cc0f9180f8ae89e2d/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/658df75ca81b2ac53cba5091d16ca255/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/658df75ca81b2ac53cba5091d16ca255/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/874c21be1ba964c4e684191abce0bd76/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/874c21be1ba964c4e684191abce0bd76/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/a8be8097efd0c103d8410bbb25545097/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/a8be8097efd0c103d8410bbb25545097/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/40d8f839f32e87bb90ff00fcfa0a6b94/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/40d8f839f32e87bb90ff00fcfa0a6b94/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/e7f4fa2b8ac8d3389d4958769ba71db1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/e7f4fa2b8ac8d3389d4958769ba71db1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/244b4cce97e5652c09699ad109362e2d/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/244b4cce97e5652c09699ad109362e2d/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/5f6e2066ce8f39521741c63c5bdcdb70/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/5f6e2066ce8f39521741c63c5bdcdb70/AndroidManifest.xml:11:5-20
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/740482023bd908e049459557fe9d6b04/AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/740482023bd908e049459557fe9d6b04/AndroidManifest.xml:18:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/40d8f839f32e87bb90ff00fcfa0a6b94/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:30:7-39
+	android:roundIcon
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:32:7-52
+	android:icon
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:31:7-41
+	android:allowBackup
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:33:7-34
+	android:theme
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:34:7-38
+	android:name
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:29:7-38
+activity#com.bmicalculator.MainActivity
+ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:35:7-44:18
+	android:label
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:37:9-41
+	android:windowSoftInputMode
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:39:9-51
+	android:configChanges
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:38:9-79
+	android:name
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:36:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:40:9-43:25
+action#android.intent.action.MAIN
+ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:41:13-65
+	android:name
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:41:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:42:13-73
+	android:name
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:42:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:45:7-84
+	android:name
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml:45:17-81
+uses-sdk
+INJECTED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml
+MERGED from [:expo-permissions] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_masked-view] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/ad6c2f99c25fce34c6e424f47da35fde/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/ad6c2f99c25fce34c6e424f47da35fde/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/material-1.1.0.aar/0e70824bfd288c68f067c56fac691013/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/material-1.1.0.aar/0e70824bfd288c68f067c56fac691013/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/803adc2e131e7c3e68bda62d4510f378/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/803adc2e131e7c3e68bda62d4510f378/AndroidManifest.xml:20:5-22:41
+MERGED from [:expo-app-loader-provider] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-font] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/redwin/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/2899ef901e3e3dfb6779bebaf0a3698b/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/redwin/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/2899ef901e3e3dfb6779bebaf0a3698b/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.browser:browser:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/6661c02c18c0f1b8f94b367fa3cd5cc9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/6661c02c18c0f1b8f94b367fa3cd5cc9/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/2e67504c9aa240ce22eecfd2f5e0f198/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/2e67504c9aa240ce22eecfd2f5e0f198/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/fa2b94e7b1097c81e15b80f655986970/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/fa2b94e7b1097c81e15b80f655986970/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/81180aba1116442cc0f9180f8ae89e2d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/81180aba1116442cc0f9180f8ae89e2d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/658df75ca81b2ac53cba5091d16ca255/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/658df75ca81b2ac53cba5091d16ca255/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/874c21be1ba964c4e684191abce0bd76/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/874c21be1ba964c4e684191abce0bd76/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/a8be8097efd0c103d8410bbb25545097/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/a8be8097efd0c103d8410bbb25545097/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/a2c487fe909c9b5ebdbfc87d7a549811/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/a2c487fe909c9b5ebdbfc87d7a549811/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/viewpager2-1.0.0.aar/16a3005d878910388d094d25bdbdae95/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/viewpager2-1.0.0.aar/16a3005d878910388d094d25bdbdae95/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /home/redwin/.gradle/caches/transforms-1/files-1.1/fragment-1.2.1.aar/fdd24f40393ecdbc6f447ddbabfc3ff2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /home/redwin/.gradle/caches/transforms-1/files-1.1/fragment-1.2.1.aar/fdd24f40393ecdbc6f447ddbabfc3ff2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/022f97c284d2d40b74fd19267f315301/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/022f97c284d2d40b74fd19267f315301/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0.aar/e97c02c5bfd2f702227d6966735f62ff/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0.aar/e97c02c5bfd2f702227d6966735f62ff/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/aedd7bcc84a61beec7e933af86ecbdad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/aedd7bcc84a61beec7e933af86ecbdad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/95355fcff5ffb9ec27b809fac945e8bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/95355fcff5ffb9ec27b809fac945e8bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/25fc028e6ccc656ebc9aa87e790b1680/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/25fc028e6ccc656ebc9aa87e790b1680/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/2419a5c02adbda68ca2f0921db05276d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/2419a5c02adbda68ca2f0921db05276d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/b6c7fce204108946cebe826618be4cb4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/b6c7fce204108946cebe826618be4cb4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/a9c32b7bd91b3895655d15ec64035999/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/a9c32b7bd91b3895655d15ec64035999/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/e456a8163427fe00dc0d721196af14a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/e456a8163427fe00dc0d721196af14a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/19f364633245c418c07ef5bd86171c6a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/19f364633245c418c07ef5bd86171c6a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/6c99662f4d4b796ed7768dca968e4142/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/6c99662f4d4b796ed7768dca968e4142/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/activity-1.1.0.aar/c2eb56c8d1c28a6d8fc8d9cf5af59e89/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/activity-1.1.0.aar/c2eb56c8d1c28a6d8fc8d9cf5af59e89/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/7b413f184e46685eaa514c75a211955a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/7b413f184e46685eaa514c75a211955a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0.aar/213d754351b7ee59ecd3726825fc4617/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0.aar/213d754351b7ee59ecd3726825fc4617/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/46d6afabe8cbf59c2ea9889cef2f012d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/46d6afabe8cbf59c2ea9889cef2f012d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/transition-1.2.0.aar/b2fd3132623b2c5254b40335d7304123/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/transition-1.2.0.aar/b2fd3132623b2c5254b40335d7304123/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/31b373d392ede90ae6228a0e38801fca/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/31b373d392ede90ae6228a0e38801fca/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/07d3616ca149651910eacdd979416c7e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/07d3616ca149651910eacdd979416c7e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/40d8f839f32e87bb90ff00fcfa0a6b94/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/40d8f839f32e87bb90ff00fcfa0a6b94/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/03adffe6606ccdc29094f25a82d5e46a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/03adffe6606ccdc29094f25a82d5e46a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/e7f4fa2b8ac8d3389d4958769ba71db1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/e7f4fa2b8ac8d3389d4958769ba71db1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-savedstate-2.2.0.aar/405f2956397e7ecb089bfd4ca3f5062c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-savedstate-2.2.0.aar/405f2956397e7ecb089bfd4ca3f5062c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.2.0.aar/04bb21132708d470aaee789ea382cf49/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.2.0.aar/04bb21132708d470aaee789ea382cf49/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/a767de177bcb4c637251eeb654f9b87f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/a767de177bcb4c637251eeb654f9b87f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/eaa5b285866ef1b1b8f88fcd0ce4c8d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/eaa5b285866ef1b1b8f88fcd0ce4c8d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/b9d27ac33b0c62bd2deb4abc619e0816/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/b9d27ac33b0c62bd2deb4abc619e0816/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/f4c1b49de2adb06ccb41fcb0df45c94c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/f4c1b49de2adb06ccb41fcb0df45c94c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/e1d7342336d926ee9d70e3427713354c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/e1d7342336d926ee9d70e3427713354c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/5e88efc1fb47ff7553e30d54b9e10888/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/5e88efc1fb47ff7553e30d54b9e10888/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/9bd6163be66ceb1aeb21d5b6792e3625/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/9bd6163be66ceb1aeb21d5b6792e3625/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.2.0.aar/4fb91eba6a897c68553b42903d280e80/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.2.0.aar/4fb91eba6a897c68553b42903d280e80/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/core-runtime-2.1.0.aar/6e4644408c9858cf35e50ed386510cc3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/core-runtime-2.1.0.aar/6e4644408c9858cf35e50ed386510cc3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/244b4cce97e5652c09699ad109362e2d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/244b4cce97e5652c09699ad109362e2d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/ed6d2ffbad26f239670599183f1e4703/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/ed6d2ffbad26f239670599183f1e4703/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/7948583c4a71f7dbd5aff82e66c82c09/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/7948583c4a71f7dbd5aff82e66c82c09/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/0ff19d56695811842fb4ef732e64a5c4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/0ff19d56695811842fb4ef732e64a5c4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/82e9713229ee512c8981e5e509a4c3bc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/82e9713229ee512c8981e5e509a4c3bc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/89f3c73d55d04d7898c7fd417ea51493/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/89f3c73d55d04d7898c7fd417ea51493/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/027a265ab8539a9890c04f3e820b725f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/027a265ab8539a9890c04f3e820b725f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/6fceb9ec70ab567176dbb07d39640468/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/6fceb9ec70ab567176dbb07d39640468/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/5f6e2066ce8f39521741c63c5bdcdb70/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/5f6e2066ce8f39521741c63c5bdcdb70/AndroidManifest.xml:7:5-9:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/740482023bd908e049459557fe9d6b04/AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/740482023bd908e049459557fe9d6b04/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/9e0751931d0a3c5a8db8f8f7e3bffca2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/9e0751931d0a3c5a8db8f8f7e3bffca2/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.STORAGE
+ADDED from [:expo-file-system] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from [:expo-file-system] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-63
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:expo-file-system] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-74
+	android:exported
+		ADDED from [:expo-file-system] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:expo-file-system] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:expo-file-system] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:70
+	android:resource
+		ADDED from [:expo-file-system] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-67
+	android:name
+		ADDED from [:expo-file-system] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:expo-location] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from [:expo-location] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-74
+service#expo.modules.location.services.LocationTaskService
+ADDED from [:expo-location] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [:expo-location] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:expo-location] /home/redwin/react native crashed file/pro_complet/bmi_Calculator/BMI/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/81180aba1116442cc0f9180f8ae89e2d/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/81180aba1116442cc0f9180f8ae89e2d/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/81180aba1116442cc0f9180f8ae89e2d/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/81180aba1116442cc0f9180f8ae89e2d/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/a8be8097efd0c103d8410bbb25545097/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/a8be8097efd0c103d8410bbb25545097/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/a8be8097efd0c103d8410bbb25545097/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/740482023bd908e049459557fe9d6b04/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/740482023bd908e049459557fe9d6b04/AndroidManifest.xml:13:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/740482023bd908e049459557fe9d6b04/AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/740482023bd908e049459557fe9d6b04/AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/740482023bd908e049459557fe9d6b04/AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/740482023bd908e049459557fe9d6b04/AndroidManifest.xml:16:22-91
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/740482023bd908e049459557fe9d6b04/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/740482023bd908e049459557fe9d6b04/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/740482023bd908e049459557fe9d6b04/AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/740482023bd908e049459557fe9d6b04/AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/740482023bd908e049459557fe9d6b04/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/740482023bd908e049459557fe9d6b04/AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/740482023bd908e049459557fe9d6b04/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/740482023bd908e049459557fe9d6b04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/redwin/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/740482023bd908e049459557fe9d6b04/AndroidManifest.xml:26:13-120
